@@ -1,0 +1,28 @@
+{
+  "survey_name": "Comfort Survey",
+  "survey_id": "comfort_survey",
+  "survey": [{
+      "question": "How comfortable you are?",
+      "question_id": "q_comfort",
+      "response_options": [{
+          "text": "0"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        }
+      ]
+    }
+  ]
+}
